@@ -33,7 +33,7 @@ All your personal data (habits, Pomodoro sessions, preferences) is stored locall
 
 Habify integrates with the following third-party services:
 
-• Google AdMob: For displaying advertisements. AdMob may collect device information and usage data for ad personalization. Please review Google's privacy policy for more information.
+• Google AdMob (google.com, Publisher ID: pub-6635484259161782, DIRECT relationship, Seller ID: f08c47fec0942fa0): For displaying advertisements through direct partnerships with Google. AdMob may collect device information and usage data for ad personalization. Please review Google's privacy policy for more information.
 • Firebase Cloud Messaging: For push notifications. Firebase may collect device tokens and message delivery statistics.
 
 6. ADVERTISEMENTS
